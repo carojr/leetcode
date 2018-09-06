@@ -1,5 +1,5 @@
 //
-//  main.c
+//  000-hello-world.c
 //  leetcode
 //
 //  Created by BurnburnYang on 2018/9/4.
